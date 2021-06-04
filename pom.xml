@@ -88,7 +88,7 @@
 
     <cxf.version>3.0.3</cxf.version>
     <derbyVersion>10.13.1.1</derbyVersion>
-    <httpclient.version>4.5.2</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <httpclient.core.version>4.4.4</httpclient.core.version>
     <javaxMailVersion>1.4</javaxMailVersion>
 
